@@ -2,14 +2,14 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 footer{
+	font-variant: small-caps;
 	margin-top: 1em;
 	text-align: right;
-    font-variant: small-caps;
 }
 
-#preface-1 footer > p:last-of-type {
-    font-variant: normal;
-    font-style: italic;
+#preface-1 footer > p:last-of-type{
+	font-style: italic;
+	font-variant: normal;
 }
 
 [epub|type~="z3998:verse"] p{
@@ -27,6 +27,7 @@ footer{
 	display: none;
 }
 
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
+table {
+	font-variant-numeric: tabular-nums;
+	margin: 1em
 }
