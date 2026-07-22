@@ -27,7 +27,7 @@ footer{
 	display: none;
 }
 
-table {
+table{
 	font-variant-numeric: tabular-nums;
-	margin: 1em
+	margin: 1em;
 }
