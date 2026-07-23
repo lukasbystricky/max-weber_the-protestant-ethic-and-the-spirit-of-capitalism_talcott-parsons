@@ -38,9 +38,12 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<meta property="se:subject">Spirituality</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The German historian Max Weber presents a theory detailing how certain ideas which are key to capitalism may have evolved from protestantism.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Capitalism as a pervasive economic system was not inevitable. The ideas underlying such a way of organizing society must have originated somewhere.&lt;/p&gt;
+			&lt;p&gt;To attempt to trace the economic and philosophical development of capitalism, the German historian &lt;a href="https://standardebooks.org/ebooks/max-weber"&gt;Max Weber&lt;/a&gt; first identifies what he calls “the spirit of capitalism.” For Weber this is best encapsulated by the well-known aphorism of &lt;a href="https://standardebooks.org/ebooks/benjamin-franklin"&gt;Benjamin Franklin&lt;/a&gt;, “time is money.” This apparently innocuous statement only makes sense in a wage economy, where one is comfortable thinking about time as something that can be bought. Indeed, this and other Franklin aphorisms paint a picture of a recognizable world in which making money is commonly seen not a means to a better life, but a goal in and of itself. Virtues, such as honesty and trustworthiness are still important, but mainly due to the fact that they are profitable qualities to have.&lt;/p&gt;
+			&lt;p&gt;This rational utilitarian view has its roots, Weber contends, in earlier protestant thought. One of the key ideas that the Reformation introduced was the idea of a calling. This idea compelled believers to perform work on Earth in the service of God. Over time this ethic of work gradually came to be applied to more and more material concerns, including the seeking of profit. The idea of work as a moral duty never completely disappeared however, and became the spiritual basis of industrial capitalism.&lt;/p&gt;
+			&lt;p&gt;Today &lt;i&gt;The Protestant Ethic and the Spirit of Capitalism&lt;/i&gt; is regarded as a classic in sociology, and was named the fourth most important sociological book of the 20th century by the International Sociological Association.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism</dc:source>
